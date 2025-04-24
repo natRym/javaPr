@@ -1,0 +1,32 @@
+# Maven
+target/
+*.log
+dependency-reduced-pom.xml
+release.properties
+
+# IntelliJ IDEA
+.idea/
+*.iml
+out/
+
+# Eclipse
+.project
+.classpath
+.settings/
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Compiled class files
+*.class
+
+# Build outputs
+*.jar
+*.war
+
+# Sensitive / temp
+.env
